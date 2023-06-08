@@ -119,7 +119,7 @@ var_dump($sign_text);
 ### 测试
 
 ```bash
-./vendor/bin/phpunit --filter sign
+./vendor/bin/phpunit --filter verifySign
 ```
 
 ## License
