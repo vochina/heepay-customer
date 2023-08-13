@@ -2,10 +2,7 @@
 
 namespace Vochina\HeepayCustomer\Tests;
 
-use Mockery\Matcher\AnyArgs;
 use PHPUnit\Framework\TestCase;
-use Vochina\HeepayCustomer\Exceptions\HttpException;
-use Vochina\HeepayCustomer\Exceptions\InvalidArgumentException;
 use Vochina\HeepayCustomer\HeepayCustomer;
 
 class HeepayCustomerTest extends TestCase
